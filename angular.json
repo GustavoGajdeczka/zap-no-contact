@@ -47,8 +47,7 @@
                   "with": "src/environments/environment.prod.ts"
                 }
               ],
-              "outputHashing": "all",
-              "baseHref": "./zap-no-contact/"
+              "outputHashing": "all"
             },
             "development": {
               "buildOptimizer": false,
